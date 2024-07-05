@@ -1,0 +1,41 @@
+:root {
+    --modal-red : #ee403d;  
+    --jostfont : "Jost", sans-serif;  
+}
+.wishlistdata h2 {
+    font-family: var(--jostfont);
+    font-weight: 400;
+}
+.cartbtn {
+    background: var(--color-thartynine);
+    border-radius: 2px;
+}
+.share_icon a {
+    color: var(--color-thartynine);
+}
+.product_table td {
+    vertical-align: middle;
+}i.fa-sharp.fa-solid {
+    font-size: 13px;
+}
+.add_cadbox select {
+    height: 42px;
+    width: 50% !important;
+}
+.add_cadbox .cd_btn {
+    width: 30%;
+    background: var(--color-thartynine);
+   height: 42px;
+}
+.Cart_btn {
+    width: 25% !important;
+}
+.Cart_btn1 {
+    width: 20% !important;
+}.add_cadbox .cd_btn:hover {
+    opacity: 0.8;
+}.ret_shop {
+    background: var(--color-thartynine) !important;
+    display: inline-block !important;
+    font-family: Jost, sans-serif;
+}
